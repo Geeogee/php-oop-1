@@ -1,0 +1,7 @@
+header {
+
+    background-color: $garchomp-blue;
+    color: $reshiram-white;
+    padding: 20px 0;
+    @include flex(row,center,center);
+}
