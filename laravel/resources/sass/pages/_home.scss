@@ -1,0 +1,12 @@
+main {
+
+    
+    .container {
+
+        @include container(70%);
+        @include flex(row, center, center);
+        min-height: calc(100vh - 100px);
+        background-color: $gyarados-blue;
+        color: $reshiram-white;
+    }
+}

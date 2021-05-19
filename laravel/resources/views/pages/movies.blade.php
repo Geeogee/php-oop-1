@@ -7,7 +7,9 @@
 @endsection
 
 @section('main')
-    <h1>
-        Hello world!
-    </h1>
+    <main>
+        <div class="container">
+            Hello world!
+        </div>
+    </main>
 @endsection
